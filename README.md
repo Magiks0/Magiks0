@@ -1,8 +1,8 @@
 <h1 align="center">👋 Bonjour, moi c’est Lucas Dupas</h1>
 
 <p align="center">
-Développeur Full-Stack Junior passionné par la création d'applications web modernes et utiles.<br>
-Actuellement en alternance chez MentalWorks et étudiant en licence informatique au CNAM.
+Développeur Full-Stack Junior passionné par la création d'applications web, la création et l'impression 3D et le developpement de jeux vidéos !<br>
+Actuellement étudiant en licence informatique en alternance.
 </p>
 
 ---
