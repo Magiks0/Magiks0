@@ -11,19 +11,15 @@ Actuellement étudiant en licence informatique en alternance.
 
 - 🎓 Étudiant en Licence Générale Informatique (CNAM)
 - 📍 Basé à **Mouy (60)**, France
-- ⚙️ Stack principale : `Symfony`, `React`, `TypeScript`, `Tailwind`, `API REST`, `Docker`
-- 🌱 En ce moment : je travaille sur le projet [MealMates](https://github.com/Magiks0/MealMates-React)
+- ⚙️ Stack principale : `Symfony`, `React`, `VueJS`, `Tailwind`, `API REST`, `Docker`
+- 🌱 En ce moment : je travaille sur la refonte de mon porfolio
 - 🧠 Curieux, rigoureux, en quête de progrès constant
 
 ---
 
 ## 🚀 Projets en cours
 
-🔹 [MealMates-React](https://github.com/Magiks0/MealMates-React)  
-> Frontend React d’une plateforme de revente alimentaire C-to-C
-
-🔹 [MealMates-SF](https://github.com/Magiks0/MealMates-SF)  
-> API Symfony sécurisée avec JWT et API Platform
+> Site personnel / Porfolio
 
 ---
 
@@ -31,7 +27,7 @@ Actuellement étudiant en licence informatique en alternance.
 
 | Langages         | Frameworks & outils              | Autres                    |
 |------------------|----------------------------------|---------------------------|
-| PHP, JavaScript, TypeScript | Symfony, React, TailwindCSS, SCSS | Git, Docker, MySQL/PostgreSQL |
+| PHP, JavaScript, TypeScript | Symfony, React, TailwindCSS, VeeJS | Git, Docker, MySQL/PostgreSQL |
 | REST APIs        | API Platform, JWT Auth           | Figma, Postman, CI/CD (en cours) |
 
 ---
@@ -40,4 +36,5 @@ Actuellement étudiant en licence informatique en alternance.
 
 - ✉️ dupaslucas8@gmail.com
 - 🧑‍💻 [github.com/Magiks0](https://github.com/Magiks0)
+- 🌐 porfolio en cours de développement 
 - 📍 Mouy (60), France
