@@ -27,7 +27,7 @@ Actuellement étudiant en licence informatique en alternance.
 
 | Langages         | Frameworks & outils              | Autres                    |
 |------------------|----------------------------------|---------------------------|
-| PHP, JavaScript, TypeScript | Symfony, React, TailwindCSS, VeeJS | Git, Docker, MySQL/PostgreSQL |
+| PHP, JavaScript, TypeScript | Symfony, React, TailwindCSS, VueJS | Git, Docker, MySQL/PostgreSQL |
 | REST APIs        | API Platform, JWT Auth           | Figma, Postman, CI/CD (en cours) |
 
 ---
